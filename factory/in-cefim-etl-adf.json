@@ -1,0 +1,9 @@
+{
+	"name": "in-cefim-etl-adf",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9b4af43d-19b7-41f5-8a1f-25b58503098b",
+		"tenantId": "f89faf31-3803-4dd0-801d-0272b909d0a6"
+	}
+}
